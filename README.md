@@ -17,10 +17,28 @@
 <h2 align="center">About Me</h2>
 
 <p align="center">
-A BSIT Student, willing to be taught.
+A BSIT student who's still early in the journey and genuinely enjoys the process of learning. I like exploring how apps come together, from designing the look and feel to writing the logic that makes them work. I'm not chasing perfection — I'm here to keep building, keep making mistakes, and keep improving one project at a time.
 </p>
 
+<p align="center">
+  🌱 Currently sharpening my <b>Java</b> and <b>Android</b> skills &nbsp;|&nbsp; 🎨 Designing interfaces in <b>Visily</b> before I build them &nbsp;|&nbsp; 💬 Always open to learning something new
+</p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1F51FF&height=2"/>
+</p>
+
+---
+
+<h2 align="center">🛠️ Tech Stack</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio" />
+  <img src="https://img.shields.io/badge/Visily-6C5CE7?style=for-the-badge&logo=figma&logoColor=white" alt="Visily" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=1F51FF&height=2"/>
@@ -40,6 +58,18 @@ A BSIT Student, willing to be taught.
 </p>
 
 <br>
+
+---
+
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sarah-xii/Sarah-xii/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sarah-xii/Sarah-xii/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sarah-xii/Sarah-xii/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
 
 ---
 
